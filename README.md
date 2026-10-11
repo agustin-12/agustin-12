@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Agustin Fiores</h1>
 
-<!--
-**agustin-12/agustin-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudiante de <b>Licenciatura en Informática y Desarrollo de Software</b><br>
+  🎓 3er año · Universidad del Aconcagua
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Sobre mí
+
+- 💻 Me formo para **desarrollar software, administrar sistemas y coordinar equipos de trabajo**.
+- 🎮 Me interesan las **apps móviles, los videojuegos y el creative coding**.
+- 🤝 Disfruto de los **proyectos en equipo** y de las metodologías ágiles.
+- 🔐 Me interesa la **seguridad informática** y la administración de sistemas **Linux**.
+- 🌱 Aprendiendo: sistemas inteligentes, compiladores y arquitectura de software.
+
+## 🛠️ Tecnologías
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🎵 **Reproductor de música** | App estilo Spotify: música local y online gratis, sonido de alta fidelidad, ecualizador e interfaz personalizable. | Flutter, Dart |
+| 🍔 **App para hamburguesería** | Aplicación para clientes y panel de comanda/administración. | TypeScript, .NET, Supabase |
+| 🤖 **Finley** | Agente conversacional de IA para finanzas personales. | Python, IA |
+| 🕹️ **NEON DASH** | Juego de plataformas 2D con estética neón. | React, JavaScript |
+
+> 🔗 Agrega el enlace de cada repositorio sobre el nombre del proyecto.
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+</p>
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/agustín-fiores-160345443)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](agustinfiores3421@gmail.com)
+
+<p align="center">⭐ ¡Gracias por pasar por mi perfil!</p>
